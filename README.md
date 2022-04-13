@@ -1,2 +1,2 @@
 # nintendo-gamepad
-[click here!](https://ahmet1988.github.io/nintendo-gamepad/)
+[click here!](https://ahmetaric.github.io/nintendo-gamepad/)
